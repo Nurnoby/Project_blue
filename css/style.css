@@ -52,7 +52,8 @@ body{
 	padding-right: 0;
 }
 .menu ul li a:hover{
-	color: #1B5983;l
+	color: #1B5983;
+	transition: .5s;
 
 }
 															/*header end*/
@@ -266,6 +267,7 @@ body{
 }
 .footer_menu ul li a:hover{
 	color:#1B5983;
+	transition: .5s;
 	
 	
 
